@@ -6,4 +6,5 @@ Have you wondered what the 'water crystals' are in potting soil? Have you asked 
 
 It's [Sodium Polyacrylate](https://en.wikipedia.org/wiki/Sodium_polyacrylate)- an invention hearlding back from the 1960's US Department of Agriculture.
 
+More human-readable article: [Super Absorbent Polymers](https://en.wikipedia.org/wiki/Superabsorbent_polymer)
 ## Sources
