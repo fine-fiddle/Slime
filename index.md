@@ -6,5 +6,5 @@ Not only because it's hard to tell what it is, or what it's made from, but becua
 - [Jelly_Slime]
 - [Cloud_Cream_Slime]
 - [Butter_Slime]
-- [Clear Slime]
-- [Thicky Slime]
+- [Clear_Slime]
+- [Thicky_Slime]
