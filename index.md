@@ -8,6 +8,8 @@ Not only because it's hard to tell what it is, or what it's made from, but becua
 - [Butter Slime](/recipes/butter_slime.md)
 - [Clear Slime](/recipes/clear_slime.md)
 - [Thicky Slime](/recipes/thicky_slime.md)
+- [Bread Clay](/recipies/bread_clay.md)
+- [Salt Dough](/recipes/salt_dough.md)
 
 ## Slime Ingredients
 - [PVA Glue](/ingredients/pva_glue.md)
@@ -16,3 +18,4 @@ Not only because it's hard to tell what it is, or what it's made from, but becua
 - [Shaving Cream](/ingredients/shaving_cream.md)
 - [Polymer Snow](/ingredients/sodium_polyacrylate.md)
 - [Food Coloring](/ingredients/dye.md)
+- [vegetable glycerine](/ingredients/vegetable_glycerine.md)
